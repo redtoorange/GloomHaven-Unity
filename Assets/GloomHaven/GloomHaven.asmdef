@@ -1,0 +1,17 @@
+{
+  "name": "GloomHaven",
+  "rootNamespace": "",
+  "references": [
+    "GUID:ac940022ebdda3748b06a29bd91d583b",
+    "GUID:6055be8ebefd69e48b49212b09b47b2f"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
